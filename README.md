@@ -34,3 +34,6 @@ x_center : X component of center of bounding box <br>
 y_center : Y component of center of bounding box <br>
 width    : width of bounding box <br>
 Height   : height of bounding box <br>
+
+We used LabelImg repo as it provide a graphical image annotation tool  <br>
+Repo: https://github.com/heartexlabs/labelImg <br>
