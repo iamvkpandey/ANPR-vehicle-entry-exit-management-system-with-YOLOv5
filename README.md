@@ -1,11 +1,16 @@
 # ANPR-vehicle-entry-exit-management-system-with-YOLOv5
 
+### Objective: To develop a system for Supervision of Vehicle Entry-Exit into a premises <br>
+![image](https://user-images.githubusercontent.com/58140667/205455077-55c6edf3-9e38-4383-8e7d-6d72d0ff7284.png)
+<br>
+
 The Basic Workflow of the Application is
 1. Object Detection.
 2. Image processing on the detected object (Number Plate).
-3. Text Extraction using OCR.
+3. Text Extraction using OCR
+4. Storing and match the result from MySQL database
 
-<h1>1. Object Detection </h1>
+<h1> Object detection </h1>
 Object detection is an application of computer vision and image processing that deals with detecting instances of
 semantic objects of a certain class (such as humans, buildings, cars or anything that can be visually distinguished) in
 digital images and videos.
