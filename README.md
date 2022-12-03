@@ -24,8 +24,6 @@ Once objects have been identified, object detection can find and localize these 
 Below is the screenshot of the programme 
 <br>
 ![2](https://user-images.githubusercontent.com/58140667/192157053-b5187cd2-8e53-486f-b84b-3e7a9f2dc0f9.PNG)
-
-<br>
 <br>
 
 <h2> Labeling specification for object detection </h2>
